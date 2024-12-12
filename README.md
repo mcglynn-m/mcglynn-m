@@ -1,4 +1,4 @@
-I'm Marianne and I'm an AI and Digital and UX expert
+I'm Marianne and I'm learning Generative AI Prompting and creating Agents for Multiple agent systems or agentic systems.
 
 <!---
 mcglynn-m/mcglynn-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
